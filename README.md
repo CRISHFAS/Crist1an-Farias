@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
 
-
+<img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" alt="separator">
 
 ###
 
@@ -74,7 +74,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
 </div>
 
-
+<img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" alt="separator">
 ###
 
 <div style="text-align: center;">
@@ -89,12 +89,11 @@
   </a>
 </div>
 
-
+<img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" alt="separator">
 
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
 
 ###
