@@ -1,12 +1,13 @@
-<div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-  <img style="display: block; -webkit-user-select: none; background-color: hsl(0, 0%, 90%);" 
+<div style="text-align: center; display: flex; flex-direction: column; align-items: center; margin: 0; padding: 0;">
+  <img style="display: block; -webkit-user-select: none; background-color: hsl(0, 0%, 90%); margin: 0;" 
        src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" 
        width="50" height="50" alt="GIF" />
-  <h2 style="margin: 10px 0;">Hola</h2>
-  <img style="display: block; -webkit-user-select: none; background-color: hsl(0, 0%, 90%);" 
+  <h2 style="margin: 0;">Hola</h2>
+  <img style="display: block; -webkit-user-select: none; background-color: hsl(0, 0%, 90%); margin: 0;" 
        src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" 
        width="50" height="50" alt="GIF" />
 </div>
+
 
 
 <img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" alt="separator">
