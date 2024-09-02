@@ -1,8 +1,8 @@
 <img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%);" 
      src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" 
-     width="100" height="50" alt="GIF" /><h2 align="left">Hola 👋! Mi nombre es Cristian and I'm a ..., from ....</h2><img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%);" 
+     width="50" height="50" alt="GIF" /><h2 align="left">Hola 👋! Mi nombre es Cristian and I'm a ..., from ....</h2><img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%);" 
      src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" 
-     width="100" height="50" alt="GIF" />
+     width="50" height="50" alt="GIF" />
 
 
 
