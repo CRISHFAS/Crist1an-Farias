@@ -1,14 +1,4 @@
-<div style="text-align: center; display: flex; flex-direction: column; align-items: center; margin: 0; padding: 0;">
-  <img style="display: block; -webkit-user-select: none; background-color: hsl(0, 0%, 90%); margin: 0;" 
-       src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" 
-       width="50" height="50" alt="GIF" />
-  
-       # hola
-       
-  <img style="display: block; -webkit-user-select: none; background-color: hsl(0, 0%, 90%); margin: 0;" 
-       src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" 
-       width="50" height="50" alt="GIF" />
-</div>
+
 
 
 
@@ -55,7 +45,7 @@
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
   <img width="12" />
