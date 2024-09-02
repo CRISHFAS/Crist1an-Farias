@@ -1,4 +1,4 @@
-<img src="https://share.text-image.com/4d443dbc0edd0a00" style="width: 100px; height: auto;" alt="small image" />
+<img data-v-4a6a43f2="" src="https://cms-artifacts.artlist.io/content/motion_array/1349221/Editable_Infographic_Set_high_resolution_preview_1349221.jpg?Expires=2037524087280&amp;Key-Pair-Id=K2ZDLYDZI2R1DF&amp;Signature=cgctfOTQCIQ0p2vLTHPd~K2WTcRfn5-lYxHgR~L8Je3gOC7ynID9l94PGcHfRCGFJrdgTTyrIc7l1yDxVvUCgJuvM8K3AY7oDXrB1hF4L1tRLN539EWsXIrEwkPSfz~pvZhmkdPJWCws~-puzUrhzjW7mZZn4d4bn3ODzJwgVIjdv67D1cTnV9fS3dQFwdafOUaPAuP1cHKNgfQZ2ShcSoPGLpLhw1~J4J0qobmHmFMekoskHqO8NyVO~loz0KXIOMHMG3wivG0aHmRLL22UwlUG5VBOt04CX8c6RCscaOJ~lz0GLJtZ--8znB3Al~DtsjMgIp6VSsrTkdWBTUkVAg__" alt="" class="">
 
 
 <h1><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="55" height="75" />hola ktut</h1>
@@ -69,7 +69,6 @@
 </div>
 
 <img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" alt="separator">
-###
 
 <div style="text-align: center;">
   <a href="https://www.instagram.com/tu_perfil" target="_blank" rel="noopener noreferrer">
