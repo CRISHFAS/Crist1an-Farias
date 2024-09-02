@@ -80,3 +80,5 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
 
 ###
+
+<img src="https://media1.tenor.com/m/MRmIk_ogHjcAAAAC/hacker-ascii.gif" width="690" height="385.1807228915663" alt="a computer generated image of a person with the letters a and t on it" style="max-width: 690px;">
