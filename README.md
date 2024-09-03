@@ -47,17 +47,11 @@
 
 
 <div align="left">
-
-![icons8-logotipo-de-java-coffee-cup](https://github.com/user-attachments/assets/4c8fdb7d-6f91-467c-8bbd-21d7f244169a)
-
-  
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="30" />
   <img width="12" />
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
   <img src="https://github.com/user-attachments/assets/09652f0d-6c52-474b-8bed-f4943c1bea2d" height="30" />
-
   <img width="12" />
   <img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="30" />
   <img width="12" />
