@@ -1,4 +1,4 @@
-<x-gif src="http://i.imgur.com/iKXH4E2.gif" sincronizado></x-gif>
+[<x-gif src="http://i.imgur.com/iKXH4E2.gif" sincronizado></x-gif>](http://i.imgur.com/m25uYzq.gif)
 
 <h1><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="55" height="75" />hola ktut</h1>
 
