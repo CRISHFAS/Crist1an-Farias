@@ -15,7 +15,7 @@
     width: 100vw; 
     height: auto;" 
   src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
-  alt="separator">
+  alt="separator" />
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%; max-width: 800px; margin: 0 auto;">
