@@ -33,7 +33,7 @@ Denegación de Servicio (DoS)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL Logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Nessus-logo.svg" height="40" alt="Nessus Logo"/>
   <img src="https://img.icons8.com/?size=256w&id=97AFS4JiW8vx&format=png" height="40" alt="Metasploit Logo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Nmap_logo.png" height="40" alt="Nmap Logo"/>
+  <img style="display: block;-webkit-user-select: none;max-width: 100%;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" height="40" alt="Nmap Logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Burp_suite_logo.svg" height="40" alt="BurpSuite Logo"/>
   <img src="https://github.com/user-attachments/assets/2bf7ac58-7ad1-44b1-94cf-48e3bf0d3d3c" height="40" alt="Custom Logo"/>
 </div>
