@@ -36,7 +36,7 @@ Denegación de Servicio (DoS)
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Nmap_logo.png" height="40" alt="Nmap Logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Wireshark_Logo.svg" height="40" alt="Wireshark Logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Burp_suite_logo.svg" height="40" alt="BurpSuite Logo"/>
-  ![image](https://github.com/user-attachments/assets/2bf7ac58-7ad1-44b1-94cf-48e3bf0d3d3c)
+  <img src="https://github.com/user-attachments/assets/2bf7ac58-7ad1-44b1-94cf-48e3bf0d3d3c" />
 
 </div>
 
