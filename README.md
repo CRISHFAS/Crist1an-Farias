@@ -31,7 +31,7 @@ Denegación de Servicio (DoS)
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL Logo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Nessus-logo.svg" height="40" alt="Nessus Logo"/>
+  <img title="logotipo de Nessus" src="https://cdn.dribbble.com/users/238042/screenshots/1014644/media/7b44a4b9b6845236b28cfc66de2f95a7.png" height="40" style="display: block; -webkit-user-select: none; max-width: 100%; margin: auto; background-color: hsl(0, 0%, 90%); transition: background-color 300ms;" />
   <img src="https://img.icons8.com/?size=256w&id=97AFS4JiW8vx&format=png" height="40" alt="Metasploit Logo"/>
   <img alt="Logo" src="https://miro.medium.com/v2/resize:fit:931/1*apOap4Yzzzuh3hht_dK6hQ.jpeg" height="40" style="display: block; -webkit-user-select: none; max-width: 100%; margin: auto; background-color: hsl(0, 0%, 90%); transition: background-color 300ms;" />
   <img style="display: block;-webkit-user-select: none;max-width: 100%;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" height="40" alt="BurpSuite Logo"/>
