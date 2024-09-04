@@ -1,7 +1,7 @@
 ¡Hola! Soy Cristian 👋
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="GIF saludo" style="vertical-align: middle; width: 55px; height: 75px;" /> <h3 align="center">Estudiante y desarrollador Full Stack,analista de datos con un toque de seguridad informática</h3> </p>
 🔥 Sobre mí
-Soy un desarrollador Full Stack con 1 año de experiencia creando aplicaciones web responsivas y seguras. Me apasiona la tecnología, la programación y la seguridad informática, y siempre estoy aprendiendo y mejorando mis habilidades. Mis proyectos van desde aplicaciones de frontend hasta desarrollos backend complejos, además de proyectos de seguridad informática.
+Soy un desarrollador Full Stack con 1 año de experiencia creando aplicaciones web responsivas y seguras. Me apasiona la tecnología, la programación,el análisis de datos y la seguridad informática, y siempre estoy aprendiendo y mejorando mis habilidades. Mis proyectos van desde aplicaciones de frontend hasta desarrollos backend complejos, además de proyectos de seguridad informática.
 
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
 
