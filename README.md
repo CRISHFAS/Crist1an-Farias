@@ -2,12 +2,12 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="GIF saludo" style="vertical-align: middle; width: 55px; height: 75px;" /> <h3 align="center">Estudiante desarrollador Full Stack y analista de datos con un foco en la seguridad</h3> </p>
 🔥 Sobre mí:
 
-Soy un desarrollador Full Stack con 1 año de experiencia creando aplicaciones web responsivas y seguras. Me apasiona la tecnología, la programación y el análisis de datos poniendo énfasis en la seguridad. Siempre aprendiendo nuevas tecnologias y mejorando mis habilidades. Mis proyectos van desde aplicaciones de frontend hasta desarrollos backend, además de proyectos de análisis de datos y seguridad informática.
+Soy un desarrollador con 1 año de experiencia creando aplicaciones web responsivas y seguras. Me apasiona la tecnología, la programación y el análisis de datos poniendo un foco en la seguridad. Siempre aprendiendo nuevas tecnologias y mejorando mis habilidades. Mis proyectos van desde aplicaciones de frontend hasta desarrollos backend, además de proyectos de análisis de datos y seguridad informática.
 
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
 
 🛠️ Habilidades Frontend:
-Creación de interfaces de usuario dinámicas y responsivas, utilizando las últimas tecnologías de frontend. Mi enfoque está en crear experiencias que no solo se vean bien, sino que también funcionen de manera fluida y eficiente. Además, de la integración de elementos visuales en 3D para darle vida a las aplicaciones web, creando entornos visuales y modernos.
+Creación de interfaces de usuario dinámicas y responsivas, utilizando las últimas tecnologías de frontend. Mi enfoque está en crear experiencias que no solo se vean bien, sino que también funcionen de manera fluida y eficiente. Además, de la integración de elementos visuales en 3D para darle vida a las aplicaciones, creando entornos visuales y modernos.
 <div style="display: flex; justify-content: center; gap: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo"/> </div>
 Backend
 Node.js
