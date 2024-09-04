@@ -27,7 +27,18 @@ También he trabajado con vulnerabilidades como:
 Inyección SQL
 Cross-Site Scripting (XSS)
 Denegación de Servicio (DoS)
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash Logo"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Nessus-logo.svg" height="40" alt="Nessus Logo"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Metasploit-logo.svg" height="40" alt="Metasploit Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nessus/nessus-original.svg" height="40" alt="Linux Logo"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Nmap_logo.png" height="40" alt="Nmap Logo"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Wireshark_Logo.svg" height="40" alt="Wireshark Logo"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Burp_suite_logo.svg" height="40" alt="BurpSuite Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL Logo"/> </div>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Nessus-logo.svg" height="40" alt="Nessus Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Metasploit-logo.svg" height="40" alt="Metasploit Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Nmap_logo.png" height="40" alt="Nmap Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Wireshark_Logo.svg" height="40" alt="Wireshark Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Burp_suite_logo.svg" height="40" alt="BurpSuite Logo"/>
+</div>
+
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" alt="separator" />
 
 <div align="center"> <img src="https://media1.tenor.com/images/1cc06bb6e5b82e70b689e3ff17ec0a2d/tenor.gif" width="400" height="auto" alt="Hacker GIF" /> <p align="center"> Seguridad y desarrollo son mis pasiones, siempre buscando aprender más y mejorar en cada proyecto. </p> </div>
