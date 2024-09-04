@@ -11,11 +11,12 @@
   style="
     display: block; 
     margin: auto; 
-    background-color: hsl(0, 0%, 90%); 
-    max-width: 100%; 
+    background-color: hsl(0, 0%, 90%);
+    width: 100vw; 
     height: auto;" 
   src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
   alt="separator">
+
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%; max-width: 800px; margin: 0 auto;">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
