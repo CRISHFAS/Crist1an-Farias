@@ -6,12 +6,8 @@ Soy un desarrollador Full Stack con 1 año de experiencia creando aplicaciones w
 
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
 
-🛠️ Habilidades
-Frontend
-HTML5
-CSS3
-JavaScript
-React
+🛠️ Habilidades Frontend:
+Creación de interfaces de usuario dinámicas y responsivas, utilizando las últimas tecnologías de frontend. Mi enfoque está en crear experiencias que no solo se vean bien, sino que también funcionen de manera fluida y eficiente. Además, de la integración de elementos visuales en 3D para darle vida a las aplicaciones web, creando entornos visuales y modernos.
 <div style="display: flex; justify-content: center; gap: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo"/> </div>
 Backend
 Node.js
