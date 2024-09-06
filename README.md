@@ -11,11 +11,7 @@ Soy un desarrollador y estudiante de Argentina,enfocado en la creación de aplic
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="React Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="React Logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerNi/powerBi-original.svg" height="40" alt="React Logo"/>
-
-
-
-    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerNi/powerBi-original.svg" height="40" alt="React Logo"/>    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB Logo"/>
