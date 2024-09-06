@@ -47,7 +47,7 @@ Mis conocimientos en estas herramientas me permiten abordar proyectos de anális
 🌐 Conéctate conmigo
 <div style="display: flex; justify-content: center; gap: 15px;">
   <a href="https://www.instagram.com/tu_perfil" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" width="35" alt="Instagram logo" />
   </a>
     <a href="https://twitter.com/tu_perfil" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
