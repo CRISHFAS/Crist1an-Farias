@@ -33,18 +33,10 @@ Mis conocimientos en estas herramientas me permiten abordar proyectos de anális
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
 Seguridad Informática:
 Conocimientos básicos de herramientas de seguridad informática como:
-
-Nessus
 Metasploit
 Nmap
 Wireshark
-John the Ripper
 BurpSuite
-También he investigado el mecanismo de funcionalidades vulnerabilidades como:
-
-Inyección SQL
-Cross-Site Scripting (XSS)
-Denegación de Servicio (DoS)
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL Logo"/>
