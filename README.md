@@ -10,6 +10,7 @@ Soy un desarrollador y estudiante de Argentina,enfocado en la creación de aplic
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="React Logo"/>
+    <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" height="40" alt="Anaconda Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="React Logo"/>
     <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" height="40" alt="Power BI Logo"/>   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo"/>
@@ -39,11 +40,11 @@ Mis conocimientos en estas herramientas me permiten abordar proyectos de anális
 
 Tengo experiencia en el análisis de datos utilizando diversas herramientas y tecnologías. Algunas de las más destacadas son:
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python (Pandas):** Manipulación y análisis de datos con DataFrames para tareas como limpieza, filtrado, y agregaciones.
-- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) **Jupyter Notebooks:** Desarrollo de análisis interactivos combinando código, visualizaciones y documentación en un solo entorno.
-- ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) **Anaconda:** Gestión de entornos de desarrollo y paquetes de Python, asegurando la compatibilidad de dependencias para análisis de datos.
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) **Power BI:** Creación de dashboards interactivos para visualización y análisis de datos empresariales.
-- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) **Excel:** Análisis de datos con funciones avanzadas, tablas dinámicas y Power Query para la transformación de datos.
+ **Python (Pandas):** Manipulación y análisis de datos con DataFrames para tareas como limpieza, filtrado, y agregaciones.
+ **Jupyter Notebooks:** Desarrollo de análisis interactivos combinando código, visualizaciones y documentación en un solo entorno.
+ **Anaconda:** Gestión de entornos de desarrollo y paquetes de Python, asegurando la compatibilidad de dependencias para análisis de datos.
+**Power BI:** Creación de dashboards interactivos para visualización y análisis de datos empresariales.
+ **Excel:** Análisis de datos con funciones avanzadas, tablas dinámicas y Power Query para la transformación de datos.
 
 Mis conocimientos en estas herramientas me permiten abordar proyectos de análisis de datos de manera eficiente y efectiva.
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
