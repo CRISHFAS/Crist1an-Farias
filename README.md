@@ -15,7 +15,7 @@ Soy un desarrollador y estudiante de Argentina,enfocado en la creación de aplic
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/>
     <img src="https://logowik.com/content/uploads/images/731_java.jpg" height="40" alt="Java Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL Logo"/>
-    <img src="https://cdn.dribbble.com/users/238042/screenshots/1014644/media/7b44a4b9b6845236b28cfc66de2f95a7.png" height="40" alt="Nessus Logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" height="40" alt="SQL Logo"/>
     <img src="https://img.icons8.com/?size=256w&id=97AFS4JiW8vx&format=png" height="40" alt="Metasploit Logo"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" height="40" alt="BurpSuite Logo"/>
     <img src="https://github.com/user-attachments/assets/2bf7ac58-7ad1-44b1-94cf-48e3bf0d3d3c" height="40" alt="Custom Logo"/>
