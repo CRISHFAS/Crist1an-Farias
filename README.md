@@ -29,11 +29,18 @@ Soy un desarrollador y estudiante de Argentina,enfocado en la creación de aplic
 
 Tengo experiencia en el análisis de datos utilizando diversas herramientas y tecnologías. Algunas de las más destacadas son:
 
- **Python (Pandas):** Manipulación y análisis de datos con DataFrames para tareas como limpieza, filtrado, y agregaciones.
- **Jupyter Notebooks:** Desarrollo de análisis interactivos combinando código, visualizaciones y documentación en un solo entorno.
- **Anaconda:** Gestión de entornos de desarrollo y paquetes de Python, asegurando la compatibilidad de dependencias para análisis de datos.
-**Power BI:** Creación de dashboards interactivos para visualización y análisis de datos empresariales.
- **Excel:** Análisis de datos con funciones avanzadas, tablas dinámicas y Power Query para la transformación de datos.
+ - **Python (Pandas):** Manipulación y análisis de datos con DataFrames para tareas como limpieza, filtrado, y agregaciones.
+
+- **Jupyter Notebooks:** Desarrollo de análisis interactivos combinando código, visualizaciones y documentación en un solo entorno.
+
+- **Anaconda:** Gestión de entornos de desarrollo y paquetes de Python, asegurando la compatibilidad de dependencias para análisis de datos.
+
+- **Power BI:** Creación de dashboards interactivos para visualización y análisis de datos empresariales.
+
+- **Excel:** Análisis de datos con funciones avanzadas, tablas dinámicas y Power Query para la transformación de datos.
+
+Mis conocimientos en estas herramientas me permiten abordar proyectos de análisis de datos de manera eficiente y efectiva.
+
 
 Mis conocimientos en estas herramientas me permiten abordar proyectos de análisis de datos de manera eficiente y efectiva.
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
