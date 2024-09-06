@@ -9,17 +9,17 @@ Soy un desarrollador y estudiante de Argentina,enfocado en la creación de aplic
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="React Logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas Logo"/>
     <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" height="40" alt="Anaconda Logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="React Logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/r/r-original.svg" height="40" alt="SQL Logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter Logo"/>
+    <img src="https://www.unir.net/wp-content/uploads/2019/11/lenguaje-r-unir-1.jpg" height="40" alt="lenguaje-r Logo"/>
     <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" height="40" alt="Power BI Logo"/>   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java Logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL Logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql Logo"/>
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="Sqlserver" /> 
     <img src="https://img.icons8.com/?size=256w&id=97AFS4JiW8vx&format=png" height="40" alt="Metasploit Logo"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" height="40" alt="BurpSuite Logo"/>
