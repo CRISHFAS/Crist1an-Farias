@@ -26,25 +26,20 @@ Soy un desarrollador y estudiante de Argentina,enfocado en la creación de aplic
 </div>
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
 
-### Conocimientos en Análisis de Datos
-
-Tengo experiencia en el análisis de datos utilizando diversas herramientas y tecnologías. Algunas de las más destacadas son:
-
- - **Pandas:** Manipulación y análisis de datos con DataFrames para tareas como limpieza, filtrado, y agregaciones.
-
-- **Jupyter Notebooks:** Desarrollo de análisis interactivos combinando código, visualizaciones y documentación en un solo entorno.
-
-- **Anaconda:** Gestión de entornos de desarrollo y paquetes de Python, asegurando la compatibilidad de dependencias para análisis de datos.
-
-- **Power BI:** Creación de dashboards interactivos para visualización y análisis de datos empresariales.
-
-- **Excel:** Análisis de datos con funciones avanzadas, tablas dinámicas y Power Query para la transformación de datos.
+| Herramienta             | Descripción                                                                                                      |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Pandas**              | Manipulo y analizo datos con DataFrames para realizar tareas como limpieza, filtrado y agregaciones.              |
+| **Jupyter Notebooks**   | Desarrollé análisis interactivos combinando código, visualizaciones y documentación en un solo entorno.           |
+| **Anaconda**            | Gestiono entornos de desarrollo y paquetes de Python, asegurando la compatibilidad de dependencias para análisis de datos. |
+| **Power BI**            | Creo dashboards interactivos para la visualización y análisis de datos empresariales.                            |
+| **Excel**               | Analizo datos utilizando funciones avanzadas, tablas dinámicas y Power Query para transformar los datos.          |
+| **R**                   | Programo en R para realizar análisis estadístico y visualización de datos.                                       |
+| **NumPy**               | Utilizo NumPy para realizar cálculos numéricos eficientes y manejar arreglos multidimensionales.                  |
 
 Mis conocimientos en estas herramientas me permiten abordar proyectos de análisis de datos de manera eficiente y efectiva.
-
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
 
-🌐 Conéctate conmigo
+🌐 **Conéctate conmigo**
 <div style="display: flex; justify-content: center; gap: 15px;">
   <a href="https://www.instagram.com/tu_perfil" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
