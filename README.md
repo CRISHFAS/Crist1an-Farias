@@ -12,7 +12,7 @@ Soy un desarrollador y estudiante de Argentina,enfocado en la creación de aplic
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas Logo"/>
     <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" height="40" alt="Anaconda Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter Logo"/>
-    <img src="https://www.unir.net/wp-content/uploads/2019/11/lenguaje-r-unir-1.jpg" height="40" alt="lenguaje-r Logo"/>
+    <img src="/Rlogo.png" height="40" alt="R" alt="lenguaje-r Logo"/>
     <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" height="40" alt="Power BI Logo"/>   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express Logo"/>
