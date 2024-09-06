@@ -12,6 +12,32 @@ Creación de interfaces de usuario dinámicas y responsivas, utilizando las últ
 He desarrollado aplicaciones del lado del servidor, implementando lógica de negocio. haciendo énfais en intentar crear sistemas robustos, eficientes y escalables, utilizando tecnologías modernas y mejores prácticas de programación. Ya sea en Java, Python, o con bases de datos relacionales o no relacionales, siempre buscando optimizar el rendimiento y la seguridad.
 <div style="display: flex; justify-content: center; gap: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/> <img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%); transition: background-color 300ms;" src="https://logowik.com/content/uploads/images/731_java.jpg" height="40" /> </div>
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
+
+Conocimientos en Análisis de Datos
+
+Tengo experiencia en el análisis de datos utilizando diversas herramientas y tecnologías. Algunas de las más destacadas son:
+
+    Python (Pandas): Manipulación y análisis de datos con DataFrames para tareas como limpieza, filtrado, y agregaciones.
+    Jupyter Notebooks: Desarrollo de análisis interactivos combinando código, visualizaciones y documentación en un solo entorno.
+    Anaconda: Gestión de entornos de desarrollo y paquetes de Python, asegurando la compatibilidad de dependencias para análisis de datos.
+    Power BI: Creación de dashboards interactivos para visualización y análisis de datos empresariales.
+    Excel: Análisis de datos con funciones avanzadas, tablas dinámicas y Power Query para la transformación de datos.
+
+Mis conocimientos en estas herramientas me permiten abordar proyectos de análisis de datos de manera eficiente y efectiva.
+### Conocimientos en Análisis de Datos
+
+Tengo experiencia en el análisis de datos utilizando diversas herramientas y tecnologías. Algunas de las más destacadas son:
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python (Pandas):** Manipulación y análisis de datos con DataFrames para tareas como limpieza, filtrado, y agregaciones.
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) **Jupyter Notebooks:** Desarrollo de análisis interactivos combinando código, visualizaciones y documentación en un solo entorno.
+- ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) **Anaconda:** Gestión de entornos de desarrollo y paquetes de Python, asegurando la compatibilidad de dependencias para análisis de datos.
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) **Power BI:** Creación de dashboards interactivos para visualización y análisis de datos empresariales.
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) **Excel:** Análisis de datos con funciones avanzadas, tablas dinámicas y Power Query para la transformación de datos.
+
+Mis conocimientos en estas herramientas me permiten abordar proyectos de análisis de datos de manera eficiente y efectiva.
+
+
+<img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
 Seguridad Informática:
 Conocimientos básicos de herramientas de seguridad informática como:
 
