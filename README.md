@@ -62,11 +62,10 @@ Denegación de Servicio (DoS)
 
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" alt="separator" />
 
-<div align="center"> <img src="https://media1.tenor.com/images/1cc06bb6e5b82e70b689e3ff17ec0a2d/tenor.gif" width="400" height="auto" alt="Hacker GIF" /> <p align="center"> Seguridad y desarrollo son mis pasiones, siempre buscando aprender más y mejorar en cada proyecto. </p> </div>
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" alt="separator" />
 
 🌐 Conéctate conmigo
 <div style="display: flex; justify-content: center; gap: 15px;"> <a href="https://www.instagram.com/tu_perfil" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /> </a> <a href="mailto:jerybbkuuukkrjhwioio@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /> </a> <a href="https://www.linkedin.com/in/tu-perfil" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /> </a> </div>
-<img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" alt="separator" />
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="GitHub Snake" /> </p>
+
+
