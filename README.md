@@ -4,8 +4,24 @@
 
 Soy un desarrollador y estudiante de Argentina,enfocado en la creación de aplicaciones web responsivas y seguras. Me apasiona la tecnología, la programación y el análisis de datos poniendo un foco en la seguridad. Siempre aprendiendo nuevas tecnologias y mejorando mis habilidades. Mis proyectos van desde aplicaciones de frontend hasta desarrollos backend, además de proyectos de análisis de datos y seguridad informática.
 
-<div style="display: flex; justify-content: center; gap: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo"/> </div>
-<div style="display: flex; justify-content: center; gap: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB Logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/> <img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%); transition: background-color 300ms;" src="https://logowik.com/content/uploads/images/731_java.jpg" height="40" /> </div>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express Logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB Logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/>
+    <img src="https://logowik.com/content/uploads/images/731_java.jpg" height="40" alt="Java Logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL Logo"/>
+    <img src="https://cdn.dribbble.com/users/238042/screenshots/1014644/media/7b44a4b9b6845236b28cfc66de2f95a7.png" height="40" alt="Nessus Logo"/>
+    <img src="https://img.icons8.com/?size=256w&id=97AFS4JiW8vx&format=png" height="40" alt="Metasploit Logo"/>
+    <img src="https://miro.medium.com/v2/resize:fit:931/1*apOap4Yzzzuh3hht_dK6hQ.jpeg" height="40" alt="Kali Linux Logo"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" height="40" alt="BurpSuite Logo"/>
+    <img src="https://github.com/user-attachments/assets/2bf7ac58-7ad1-44b1-94cf-48e3bf0d3d3c" height="40" alt="Custom Logo"/>
+</div>
+
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
 
 Conocimientos en Análisis de Datos
