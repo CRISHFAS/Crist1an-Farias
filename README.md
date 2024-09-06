@@ -10,9 +10,7 @@ Soy un desarrollador y estudiante de Argentina,enfocado en la creación de aplic
 
 Conocimientos en Análisis de Datos
 
-Tengo experiencia en el análisis de datos utilizando diversas herramientas y tecnologías. Algunas de las más destacadas son:
-
-Python (Pandas): Manipulación y análisis de datos con DataFrames para tareas como limpieza, filtrado, y agregaciones.
+**Python (Pandas): Manipulación y análisis de datos con DataFrames para tareas como limpieza, filtrado, y agregaciones**.
 Jupyter Notebooks: Desarrollo de análisis interactivos combinando código, visualizaciones y documentación en un solo entorno.
 Anaconda: Gestión de entornos de desarrollo y paquetes de Python, asegurando la compatibilidad de dependencias para análisis de datos.
 Power BI: Creación de dashboards interactivos para visualización y análisis de datos empresariales.
