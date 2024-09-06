@@ -24,18 +24,7 @@ Soy un desarrollador y estudiante de Argentina,enfocado en la creación de aplic
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" height="40" alt="BurpSuite Logo"/>
     <img src="https://github.com/user-attachments/assets/2bf7ac58-7ad1-44b1-94cf-48e3bf0d3d3c" height="40" alt="Custom Logo"/>
 </div>
-
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
-
-Conocimientos en Análisis de Datos
-
-Pandas: Manipulación y análisis de datos con DataFrames para tareas como limpieza, filtrado, y agregaciones.
-Jupyter Notebooks: Desarrollo de análisis interactivos combinando código, visualizaciones y documentación en un solo entorno.
-Anaconda: Gestión de entornos de desarrollo y paquetes de Python, asegurando la compatibilidad de dependencias para análisis de datos.
-Power BI: Creación de dashboards interactivos para visualización y análisis de datos empresariales.
-Excel: Análisis de datos con funciones avanzadas, tablas dinámicas y Power Query para la transformación de datos.
-
-Mis conocimientos en estas herramientas me permiten abordar proyectos de análisis de datos de manera eficiente y efectiva.
 ### Conocimientos en Análisis de Datos
 
 Tengo experiencia en el análisis de datos utilizando diversas herramientas y tecnologías. Algunas de las más destacadas son:
