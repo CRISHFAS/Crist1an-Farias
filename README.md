@@ -1,5 +1,5 @@
 # ¡Hola! Soy Cristian
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="GIF saludo" style="vertical-align: middle; width: 55px; height: 75px;" /> <h3 align="center">Estudiante desarrollador Full Stack y analista de datos con un foco en la seguridad</h3> </p>
+<p align="center"> <h3 align="center">Estudiante desarrollador Full Stack y analista de datos con un foco en la seguridad</h3> </p>
 🔥 Sobre mí:
 
 Soy un desarrollador y estudiante de Argentina,enfocado en la creación de aplicaciones web responsivas y seguras. Me apasiona la tecnología, la programación y el análisis de datos poniendo un foco en la seguridad. Siempre aprendiendo nuevas tecnologias y mejorando mis habilidades. Mis proyectos van desde aplicaciones de frontend hasta desarrollos backend, además de proyectos de análisis de datos y seguridad informática.
