@@ -1,4 +1,5 @@
-![Hola, soy Cristian Farias; soy un desarrollador de software; y analista de datos competitivo](https://readme-typing-svg.herokuapp.com/demo?font=Fira+Code&pause=1000&center=false&vCenter=false&repeat=true&random=false&width=437&height=57&lines=Hola%2C+soy+Cristian+Farias.;desarrollador+de+software;+y+analista+de+datos+competitivo.)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola%2C+soy+Cristian+Farias.;soy+un+desarrollador+de+software;+y+analista+de+datos+competitivo.)](https://git.io/typing-svg)
+
 
 
 
