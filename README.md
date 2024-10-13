@@ -1,4 +1,3 @@
-¡ hola a todos ! [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=Hola%2C+soy+Cristian+Farias.;desarrollador+de+software;+y+analista+de+datos+competitivo.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=Hola%2C+soy+Cristian+Farias.;desarrollador+de+software;+y+analista+de+datos+competitivo.)](https://git.io/typing-svg)
 
 
