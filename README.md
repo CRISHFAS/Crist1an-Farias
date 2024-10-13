@@ -1,6 +1,7 @@
 [<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/demo?font=Fira+Code&pause=1000&center=false&vCenter=false&repeat=true&random=false&width=437&height=57&lines=Hola%2C+soy+Cristian+Farias.;desarrollador+de+software;+y+analista+de+datos+competitivo." alt="Typing SVG" /></a>](https://readme-typing-svg.herokuapp.com/demo?duration=4772&pause=0&center=false&vCenter=false&repeat=true&random=true&width=437&height=57&lines=Hola%2C+soy+Cristian+Farias.;desarrollador+de+software;+y+analista+de+datos+competitivo.)
 
 
+
 Enfocado en la creación de aplicaciones web responsivas y seguras. Me apasiona la tecnología, la programación y el análisis de datos poniendo un foco en la seguridad. Siempre aprendiendo nuevas tecnologias y mejorando mis habilidades. Mis proyectos van desde aplicaciones de frontend hasta desarrollos backend, además de proyectos de análisis de datos y seguridad informática.
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
