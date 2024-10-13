@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola%2C+soy+Cristian+Farias.;soy+un+desarrollador+de+software;+y+analista+de+datos+competitivo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto&width=600&lines=Hola%2C+soy+Cristian+Farias.;desarrollador+de+software;+y+analista+de+datos+competitivo.)](https://git.io/typing-svg)
+
 
 
 
