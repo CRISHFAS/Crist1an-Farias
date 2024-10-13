@@ -1,10 +1,5 @@
+# ¡Hola a todos!
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola%2C+soy+Cristian+Farias.;soy+un+desarrollador+de+software;+y+analista+de+datos+competitivo.)](https://git.io/typing-svg)
-
-
-
-
-
-
 
 Enfocado en la creación de aplicaciones web responsivas y seguras. Me apasiona la tecnología, la programación y el análisis de datos poniendo un foco en la seguridad. Siempre aprendiendo nuevas tecnologias y mejorando mis habilidades. Mis proyectos van desde aplicaciones de frontend hasta desarrollos backend, además de proyectos de análisis de datos y seguridad informática.
 
@@ -29,8 +24,6 @@ Enfocado en la creación de aplicaciones web responsivas y seguras. Me apasiona 
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" height="35" alt="BurpSuite Logo"/>
     <img src="https://github.com/user-attachments/assets/2bf7ac58-7ad1-44b1-94cf-48e3bf0d3d3c" height="35" alt="Custom Logo"/>
 </div>
-
-<img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
 
 | Herramienta             | Descripción                                                                                                      |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
