@@ -21,10 +21,7 @@ Enfocado en la creación de aplicaciones web responsivas y seguras. Me apasiona 
     <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" height="35" alt="Anaconda Logo"/>
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/r-programming-language-icon.png" height="35" alt="R Logo"/>
     <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" height="35" alt="Power BI Logo"/>
-    <img src="https://img.icons8.com/?size=256w&id=97AFS4JiW8vx&format=png" height="35" alt="Metasploit Logo"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" height="35" alt="BurpSuite Logo"/>
-    <img src="https://github.com/user-attachments/assets/2bf7ac58-7ad1-44b1-94cf-48e3bf0d3d3c" height="35" alt="Custom Logo"/>
-</div>
+  </div>
 
 | Herramienta             | Descripción                                                                                                      |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
