@@ -1,4 +1,5 @@
-[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/demo?font=Fira+Code&pause=1000&center=false&vCenter=false&repeat=true&random=false&width=437&height=57&lines=Hola%2C+soy+Cristian+Farias.;desarrollador+de+software;+y+analista+de+datos+competitivo." alt="Typing SVG" /></a>](https://readme-typing-svg.herokuapp.com/demo?duration=4772&pause=0&center=false&vCenter=false&repeat=true&random=true&width=437&height=57&lines=Hola%2C+soy+Cristian+Farias.;desarrollador+de+software;+y+analista+de+datos+competitivo.)
+![Hola, soy Cristian Farias; soy un desarrollador de software; y analista de datos competitivo](https://readme-typing-svg.herokuapp.com/demo?font=Fira+Code&pause=1000&center=false&vCenter=false&repeat=true&random=false&width=437&height=57&lines=Hola%2C+soy+Cristian+Farias.;desarrollador+de+software;+y+analista+de+datos+competitivo.)
+
 
 
 
