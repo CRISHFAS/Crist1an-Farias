@@ -23,17 +23,6 @@ Enfocado en la creación de aplicaciones web responsivas y seguras. Me apasiona 
     <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" height="35" alt="Power BI Logo"/>
   </div>
   
-
-| Herramienta             | Descripción                                                                                                      |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Pandas**              | Manipulo y analizo datos con DataFrames para realizar tareas como limpieza, filtrado y agregaciones.              |
-| **Jupyter Notebooks**   | Desarrollé análisis interactivos combinando código, visualizaciones y documentación en un solo entorno.           |
-| **Anaconda**            | Gestiono entornos de desarrollo y paquetes de Python, asegurando la compatibilidad de dependencias para análisis de datos. |
-| **Power BI**            | Creo dashboards interactivos para la visualización y análisis de datos empresariales.                            |
-| **Excel**               | Analizo datos utilizando funciones avanzadas, tablas dinámicas y Power Query para transformar los datos.          |
-| **R**                   | Programo en R para realizar análisis estadístico y visualización de datos.                                       |
-| **NumPy**               | Utilizo NumPy para realizar cálculos numéricos eficientes y manejar arreglos multidimensionales.                  |
-
 Mis conocimientos en estas herramientas me permiten abordar proyectos de análisis de datos de manera eficiente y efectiva.
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); width: 100vw; height: auto;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="separator" />
 
