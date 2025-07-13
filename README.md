@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Soy%2C+Cristian+F.+Mart1n;Desarrollador+de+Software.)](https://git.io/typing-svg)
 
-Enfocado en la creación de aplicaciones web responsivas y seguras. Me apasiona la ciencia y la tecnología; La programación y el análisis de datos.
+<p align="center">Enfocado en la creación de aplicaciones web responsivas y seguras. Me apasiona la ciencia y la tecnología; La programación y el análisis de datos.
 
 Fuera del mundo del desarrollo, soy un amante de la música, especialmente cuando estoy enfrente de la batería o tocando algunas lineas con el bajo. También disfruto del básquet y el fútbol, y me apasiona la herrería artística, donde puedo transformar ideas en piezas físicas, igual que hago en el código.
 
-Siempre buscando aprender más, compartir mis conocimientos y conectar con gente que disfrute tanto de la tecnología como yo. <br>¿Charlamos sobre código, música o cualquier otra locura creativa?
+Siempre buscando aprender más, compartir mis conocimientos y conectar con gente que disfrute tanto de la tecnología como yo. <br>¿Charlamos sobre código, música o cualquier otra locura creativa?</p>
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5 Logo"/>
