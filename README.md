@@ -1,4 +1,4 @@
-# ¡Hola a todos! 👋
+<h1 align="center">¡Hola a todos! 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Soy%2C+Cristian+F.+Mart1n;Desarrollador+de+Software.)](https://git.io/typing-svg)
 
