@@ -34,9 +34,9 @@ Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.
 
 ## Cuando no estoy programando, investigando o leyendo código... 
 
-<br>Me gusta tocar la batería y el bajo - Transformando ideas en ritmos como lo hago con el desarrollo,</br>  
-<br>Juego al básquet y al fútbol - Manteniendome activo y aplicando integración y trabajo en equipo,<br>
-<br>Además me apasiona la herrería artística, pasatiempo que me permite transformar ideas en piezas físicas, igual que hago transformando lógica en código.</br> 
+<br>Me gusta tocar la batería y el bajo - Transformando ideas en ritmos como lo hago con el desarrollo<br>  
+<br>Juego al básquet y al fútbol - Manteniéndome activo y aplicando integración y trabajo en equipo<br>
+<br>Además me apasiona la herrería artística, pasatiempo que me permite transformar ideas en piezas físicas, igual que hago transformando lógica en código<br> 
 
 *Creo que las mejores ideas surgen cuando combinás diferentes pasiones y perspectivas.*
 
