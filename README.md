@@ -4,7 +4,7 @@
 
 <p align="center">Apasionado por crear <strong>aplicaciones web escalables y seguras</strong>.<br>
 Me enfoco en escribir <strong>código limpio, testeable y performante</strong>.<br>
-Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.</p> 
+Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.</p><br> 
 
 ---
 
