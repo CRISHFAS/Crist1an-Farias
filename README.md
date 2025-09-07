@@ -26,19 +26,17 @@ Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.
 
  ## Lo que me caracteriza
 
-💡 **Problem solver** - Me gusta analizar problemas complejos y encontrar soluciones elegantes  
-⚡ **Performance-focused** - Siempre optimizando para la mejor experiencia de usuario  
-🧪 **Testing mindset** - Creo en el código confiable y mantenible  
-🤝 **Team player** - Disfruto colaborar y aprender de otros desarrolladores  
-📚 **Continuous learner** - Constantemente actualizándome con nuevas tecnologías 
+**Problem solver** - Me gusta analizar problemas complejos y encontrar soluciones elegantes  
+**Performance-focused** - Siempre optimizando para la mejor experiencia de usuario  
+**Testing mindset** - Creo en el código confiable y mantenible  
+**Team player** - Disfruto colaborar y aprender de otros desarrolladores  
+**Continuous learner** - Constantemente actualizándome con nuevas tecnologías 
 
-## Cuando no estoy programando, investigando o leyendo código 
+## Cuando no estoy programando, investigando o leyendo código... 
 
-La creatividad no se detiene fuera del código:
-
-🥁 **Música:** Toco la batería y el bajo - La música me ayuda a mantener el ritmo también en el desarrollo  
-⚒️ **Herrería artística:** Transformo ideas en piezas físicas, igual que hago transformando lógica en código  
-🏀 **Deportes:** Básquet y fútbol - Me mantienen activo y me enseñan sobre trabajo en equipo  
+Me gusta tocar la batería y el bajo - Transformando ideas en ritmos como lo hago con el desarrollo,  
+Juego al básquet y al fútbol - Manteniendome activo y aplicando integración y trabajo en equipo,
+Además me apasiona la herrería artística, pasatiempo que me permite transformar ideas en piezas físicas, igual que hago transformando lógica en código. 
 
 *Creo que las mejores ideas surgen cuando combinás diferentes pasiones y perspectivas.*
 
@@ -50,15 +48,7 @@ La creatividad no se detiene fuera del código:
   <a href="https://linkedin.com/in/cristian-farias" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/CrisitanHFarias" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter"/>
-  </a>
   <a href="mailto:cristian.farias.martin@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"/>
   </a>
 </div>
-
-<p align="center">
-<strong>¿Tenés algún proyecto interesante en mente?</strong><br>
-Me encanta colaborar con gente apasionada por la tecnología 
-</p>
