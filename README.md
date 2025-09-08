@@ -8,7 +8,7 @@ Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.
 
 ---
 
-## Stack Técnico
+<h1 align="center">Stack Técnico</h1>
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -24,7 +24,7 @@ Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.
 
 ---
 
- ## Lo que me caracteriza
+<h1 align="center">Lo que me caracteriza</h1>
 
 **Problem solver** - Me gusta analizar problemas complejos y encontrar soluciones elegantes  
 **Performance-focused** - Siempre optimizando para la mejor experiencia de usuario  
@@ -34,7 +34,7 @@ Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.
 
 ---
 
-## Cuando no estoy programando, investigando o leyendo código... 
+<h1 align="center">Cuando no estoy programando, investigando o leyendo código...</h1>
 
 - Me gusta tocar la batería y el bajo - Transformando ideas en ritmos como lo hago con el desarrollo  
 - Juego al básquet y al fútbol - Manteniéndome activo y aplicando integración y trabajo en equipo  
