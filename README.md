@@ -26,11 +26,11 @@ Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.
 
 <h1 align="center">Lo que me caracteriza</h1>
 
-**Problem solver** - Me gusta analizar problemas complejos y encontrar soluciones elegantes  
-**Performance-focused** - Siempre optimizando para la mejor experiencia de usuario  
-**Testing mindset** - Creo en el código confiable y mantenible  
-**Team player** - Disfruto colaborar y aprender de otros desarrolladores  
-**Continuous learner** - Constantemente actualizándome con nuevas tecnologías 
+- **Problem solver** - Me gusta analizar problemas complejos y encontrar soluciones elegantes  
+- **Performance-focused** - Siempre optimizando para la mejor experiencia de usuario  
+- **Testing mindset** - Creo en el código confiable y mantenible  
+- **Team player** - Disfruto colaborar y aprender de otros desarrolladores  
+- **Continuous learner** - Constantemente actualizándome con nuevas tecnologías 
 
 ---
 
