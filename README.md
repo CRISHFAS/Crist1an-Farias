@@ -32,6 +32,8 @@ Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.
 **Team player** - Disfruto colaborar y aprender de otros desarrolladores  
 **Continuous learner** - Constantemente actualizándome con nuevas tecnologías 
 
+---
+
 ## Cuando no estoy programando, investigando o leyendo código... 
 
 <br>Me gusta tocar la batería y el bajo - Transformando ideas en ritmos como lo hago con el desarrollo<br>  
