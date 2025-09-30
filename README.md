@@ -6,6 +6,8 @@
 Me enfoco en escribir <strong>código limpio, testeable y performante</strong>.<br>
 Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.</p><br> 
 
+[](https://camo.githubusercontent.com/b176bdd9e89b7a6619726aa9629bcbe2db2795cd991ff67297bd7b452683a57e/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6e6577732f636f6e74656e742f696d616765732f323032322f31312f686972652d66756c6c2d737461636b2d646576656c6f70657273313534363530373437343331372d312e676966)
+
 ---
 
 <h1 align="center">Stack Técnico</h1>
