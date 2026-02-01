@@ -11,38 +11,15 @@ Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.
 <h1 align="center">Stack Técnico</h1>
 
 <p align="center">
-<svg width="100%" height="110" viewBox="0 0 1600 110" xmlns="http://www.w3.org/2000/svg">
-  
-  <g>
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      from="0 0"
-      to="-800 0"
-      dur="30s"
-      repeatCount="indefinite" />
-
-    <!-- ICONOS -->
-    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925751/webflow-icon_t3xyp2.png" x="0" y="20" width="70"/>
-    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925773/js-icon_tx5ke0.png" x="120" y="20" width="70"/>
-    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925751/mecanografiado_dbxck0.png" x="240" y="20" width="70"/>
-    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925789/spring-boot-icon.png" x="360" y="20" width="70"/>
-    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925789/Angular-icon_jmul4b.png" x="480" y="20" width="70"/>
-    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925751/react-icon_xlkpc5.png" x="600" y="20" width="70"/>
-    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925751/postgreSQL-icon_bkklhu.png" x="720" y="20" width="70"/>
-    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925789/GSAP-icon_okexlh.png" x="840" y="20" width="70"/>
-
-    <!-- DUPLICADO -->
-    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925751/webflow-icon_t3xyp2.png" x="960" y="20" width="70"/>
-    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925773/js-icon_tx5ke0.png" x="1080" y="20" width="70"/>
-    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925751/mecanografiado_dbxck0.png" x="1200" y="20" width="70"/>
-    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925789/spring-boot-icon.png" x="1320" y="20" width="70"/>
-    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925789/Angular-icon_jmul4b.png" x="1440" y="20" width="70"/>
-
-  </g>
-</svg>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" />
 </p>
-
 
 
 ---
