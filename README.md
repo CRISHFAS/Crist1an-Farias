@@ -10,90 +10,39 @@ Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.
 
 <h1 align="center">Stack Técnico</h1>
 
-<style>
-    .cota-marquee-container {
-            width: 100%;
-            overflow: hidden;
-            padding: 50px 0;
-            /* Un poco más de aire para el tamaño de 90px */
-            background: transparent;
-            display: block !important;
-        }
+<p align="center">
+<svg width="100%" height="110" viewBox="0 0 1600 110" xmlns="http://www.w3.org/2000/svg">
+  
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 0"
+      to="-800 0"
+      dur="30s"
+      repeatCount="indefinite" />
 
-        .cota-marquee-track {
-            display: flex !important;
-            align-items: center;
-            width: max-content;
-            /* 60s es ideal para que el desfile sea pausado y elegante */
-            animation: cota-slow-scroll 60s linear infinite;
-        }
+    <!-- ICONOS -->
+    <image href="images/webflow-icon.png" x="0" y="20" width="70"/>
+    <image href="images/js-icon.png" x="120" y="20" width="70"/>
+    <image href="images/mecanografiado.png" x="240" y="20" width="70"/>
+    <image href="images/spring-boot-icon.png" x="360" y="20" width="70"/>
+    <image href="images/Angular-icon.png" x="480" y="20" width="70"/>
+    <image href="images/react-icon.png" x="600" y="20" width="70"/>
+    <image href="images/postgresql-icon.png" x="720" y="20" width="70"/>
+    <image href="images/GSAP-icon.png" x="840" y="20" width="70"/>
 
-        .cota-icon-only {
-            width: 90px;
-            height: 90px;
-            object-fit: contain;
-            /* Margen de 32px a los lados para una separación clara */
-            margin: 0 32px;
+    <!-- DUPLICADO PARA LOOP PERFECTO -->
+    <image href="images/webflow-icon.png" x="960" y="20" width="70"/>
+    <image href="images/js-icon.png" x="1080" y="20" width="70"/>
+    <image href="images/mecanografiado.png" x="1200" y="20" width="70"/>
+    <image href="images/spring-boot-icon.png" x="1320" y="20" width="70"/>
+    <image href="images/Angular-icon.png" x="1440" y="20" width="70"/>
+  </g>
 
-            /* PROPIEDADES DE COLOR CORREGIDAS */
-            opacity: 1;
-            /* Color total desde el inicio */
-            filter: none !important;
-            /* Aseguramos que no haya rastro de gris */
+</svg>
+</p>
 
-            transition: transform 0.4s ease;
-            flex-shrink: 0;
-        }
-
-        /* Efecto al pasar el mouse: Solo un pequeño aumento de tamaño */
-        .cota-icon-only:hover {
-            transform: scale(1.15);
-        }
-
-        /* Animación fluida infinita */
-        @keyframes cota-slow-scroll {
-            0% {
-                transform: translateX(0);
-            }
-
-            100% {
-                transform: translateX(-50%);
-            }
-        }
-
-        /* Ajuste Responsive: Iconos claros pero adaptados al móvil */
-        @media (max-width: 768px) {
-            .cota-icon-only {
-                width: 60px;
-                /* Sigue siendo "visiblemente visible" en móvil */
-                height: 60px;
-                margin: 0 20px;
-            }
-        }
-</style>
-
-<div class="cota-marquee-container">
-                <div class="cota-marquee-track">
-                    <img src="images/webflow-icon.png" class="cota-icon-only" alt="Webflow">
-                    <img src="images/js-icon.png" class="cota-icon-only" alt="JavaScript">
-                    <img src="images/mecanografiado.png" class="cota-icon-only" alt="TypeScript">
-                    <img src="images/spring-boot-icon.png" class="cota-icon-only" alt="Spring Boot">
-                    <img src="images/Angular-icon.png" class="cota-icon-only" alt="Angular">
-                    <img src="images/react-icon.png" class="cota-icon-only" alt="React">
-                    <img src="images/postgresql-icon.png" class="cota-icon-only" alt="PostgreSQL">
-                    <img src="images/GSAP-icon.png" class="cota-icon-only" alt="GSAP">
-
-                    <img src="images/webflow-icon.png" class="cota-icon-only" alt="Webflow">
-                    <img src="images/js-icon.png" class="cota-icon-only" alt="JavaScript">
-                    <img src="images/mecanografiado.png" class="cota-icon-only" alt="TypeScript">
-                    <img src="images/spring-boot-icon.png" class="cota-icon-only" alt="Spring Boot">
-                    <img src="images/Angular-icon.png" class="cota-icon-only" alt="Angular">
-                    <img src="images/react-icon.png" class="cota-icon-only" alt="React">
-                    <img src="images/postgresql-icon.png" class="cota-icon-only" alt="PostgreSQL">
-                    <img src="images/GSAP-icon.png" class="cota-icon-only" alt="GSAP">
-                </div>
-            </div>
-        </div>
 
 ---
 
