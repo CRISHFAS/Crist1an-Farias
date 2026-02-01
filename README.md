@@ -23,25 +23,26 @@ Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.
       repeatCount="indefinite" />
 
     <!-- ICONOS -->
-    <image href="images/webflow-icon.png" x="0" y="20" width="70"/>
-    <image href="images/js-icon.png" x="120" y="20" width="70"/>
-    <image href="images/mecanografiado.png" x="240" y="20" width="70"/>
-    <image href="images/spring-boot-icon.png" x="360" y="20" width="70"/>
-    <image href="images/Angular-icon.png" x="480" y="20" width="70"/>
-    <image href="images/react-icon.png" x="600" y="20" width="70"/>
-    <image href="images/postgresql-icon.png" x="720" y="20" width="70"/>
-    <image href="images/GSAP-icon.png" x="840" y="20" width="70"/>
+    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925751/webflow-icon_t3xyp2.png" x="0" y="20" width="70"/>
+    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925773/js-icon_tx5ke0.png" x="120" y="20" width="70"/>
+    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925751/mecanografiado_dbxck0.png" x="240" y="20" width="70"/>
+    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925789/spring-boot-icon.png" x="360" y="20" width="70"/>
+    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925789/Angular-icon_jmul4b.png" x="480" y="20" width="70"/>
+    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925751/react-icon_xlkpc5.png" x="600" y="20" width="70"/>
+    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925751/postgreSQL-icon_bkklhu.png" x="720" y="20" width="70"/>
+    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925789/GSAP-icon_okexlh.png" x="840" y="20" width="70"/>
 
-    <!-- DUPLICADO PARA LOOP PERFECTO -->
-    <image href="images/webflow-icon.png" x="960" y="20" width="70"/>
-    <image href="images/js-icon.png" x="1080" y="20" width="70"/>
-    <image href="images/mecanografiado.png" x="1200" y="20" width="70"/>
-    <image href="images/spring-boot-icon.png" x="1320" y="20" width="70"/>
-    <image href="images/Angular-icon.png" x="1440" y="20" width="70"/>
+    <!-- DUPLICADO -->
+    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925751/webflow-icon_t3xyp2.png" x="960" y="20" width="70"/>
+    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925773/js-icon_tx5ke0.png" x="1080" y="20" width="70"/>
+    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925751/mecanografiado_dbxck0.png" x="1200" y="20" width="70"/>
+    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925789/spring-boot-icon.png" x="1320" y="20" width="70"/>
+    <image href="https://res.cloudinary.com/dqmeq067u/image/upload/v1769925789/Angular-icon_jmul4b.png" x="1440" y="20" width="70"/>
+
   </g>
-
 </svg>
 </p>
+
 
 
 ---
