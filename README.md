@@ -6,25 +6,94 @@
 Me enfoco en escribir <strong>código limpio, testeable y performante</strong>.<br>
 Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.</p><br> 
 
-<div align="center">
-<img src="https://camo.githubusercontent.com/b176bdd9e89b7a6619726aa9629bcbe2db2795cd991ff67297bd7b452683a57e/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6e6577732f636f6e74656e742f696d616765732f323032322f31312f686972652d66756c6c2d737461636b2d646576656c6f70657273313534363530373437343331372d312e676966" alt="GIF animado de Full-Stack Developer" style="max-width: 100%; height: auto; display: inline-block;"/>
-</div>
-
 ---
 
 <h1 align="center">Stack Técnico</h1>
 
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-</div>
+<style>
+    .cota-marquee-container {
+            width: 100%;
+            overflow: hidden;
+            padding: 50px 0;
+            /* Un poco más de aire para el tamaño de 90px */
+            background: transparent;
+            display: block !important;
+        }
+
+        .cota-marquee-track {
+            display: flex !important;
+            align-items: center;
+            width: max-content;
+            /* 60s es ideal para que el desfile sea pausado y elegante */
+            animation: cota-slow-scroll 60s linear infinite;
+        }
+
+        .cota-icon-only {
+            width: 90px;
+            height: 90px;
+            object-fit: contain;
+            /* Margen de 32px a los lados para una separación clara */
+            margin: 0 32px;
+
+            /* PROPIEDADES DE COLOR CORREGIDAS */
+            opacity: 1;
+            /* Color total desde el inicio */
+            filter: none !important;
+            /* Aseguramos que no haya rastro de gris */
+
+            transition: transform 0.4s ease;
+            flex-shrink: 0;
+        }
+
+        /* Efecto al pasar el mouse: Solo un pequeño aumento de tamaño */
+        .cota-icon-only:hover {
+            transform: scale(1.15);
+        }
+
+        /* Animación fluida infinita */
+        @keyframes cota-slow-scroll {
+            0% {
+                transform: translateX(0);
+            }
+
+            100% {
+                transform: translateX(-50%);
+            }
+        }
+
+        /* Ajuste Responsive: Iconos claros pero adaptados al móvil */
+        @media (max-width: 768px) {
+            .cota-icon-only {
+                width: 60px;
+                /* Sigue siendo "visiblemente visible" en móvil */
+                height: 60px;
+                margin: 0 20px;
+            }
+        }
+</style>
+
+<div class="cota-marquee-container">
+                <div class="cota-marquee-track">
+                    <img src="images/webflow-icon.png" class="cota-icon-only" alt="Webflow">
+                    <img src="images/js-icon.png" class="cota-icon-only" alt="JavaScript">
+                    <img src="images/mecanografiado.png" class="cota-icon-only" alt="TypeScript">
+                    <img src="images/spring-boot-icon.png" class="cota-icon-only" alt="Spring Boot">
+                    <img src="images/Angular-icon.png" class="cota-icon-only" alt="Angular">
+                    <img src="images/react-icon.png" class="cota-icon-only" alt="React">
+                    <img src="images/postgresql-icon.png" class="cota-icon-only" alt="PostgreSQL">
+                    <img src="images/GSAP-icon.png" class="cota-icon-only" alt="GSAP">
+
+                    <img src="images/webflow-icon.png" class="cota-icon-only" alt="Webflow">
+                    <img src="images/js-icon.png" class="cota-icon-only" alt="JavaScript">
+                    <img src="images/mecanografiado.png" class="cota-icon-only" alt="TypeScript">
+                    <img src="images/spring-boot-icon.png" class="cota-icon-only" alt="Spring Boot">
+                    <img src="images/Angular-icon.png" class="cota-icon-only" alt="Angular">
+                    <img src="images/react-icon.png" class="cota-icon-only" alt="React">
+                    <img src="images/postgresql-icon.png" class="cota-icon-only" alt="PostgreSQL">
+                    <img src="images/GSAP-icon.png" class="cota-icon-only" alt="GSAP">
+                </div>
+            </div>
+        </div>
 
 ---
 
